@@ -1,0 +1,7 @@
+<html>
+        <head></head>
+        <body>
+        <div>#msg("hello"), it's $date.format("yy-MM-dd HH:mm:ss", $now)</div>
+        <div>$now ---- $user.id, $user.name</div>
+        </body>
+</html>
